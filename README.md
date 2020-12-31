@@ -16,6 +16,7 @@ new_york_city.csv
 washington.csv
 but you can use files that are convenient to you and alter the code according to.
 
+instructions to complete this project:
 To complete this project, the following software requirements apply:
 1)You should have Python 3, NumPy, and pandas installed using Anaconda
 2)A text editor, like Sublime or Atom.
