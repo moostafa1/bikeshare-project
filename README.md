@@ -16,6 +16,7 @@ chicago.csv
 new_york_city.csv
 washington.csv
 but you can use files that are convenient to you and alter the code according to.
+it's your option
 
 
 ### Credits
