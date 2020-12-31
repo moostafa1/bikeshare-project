@@ -22,6 +22,8 @@ To complete this project, the following software requirements apply:
 2)A text editor, like Sublime or Atom.
 3)A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
+best wishes
+
 
 ### Credits
 link: https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree�
